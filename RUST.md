@@ -1,1 +1,1 @@
-- **`rust`** [![](https://img.shields.io/github/stars/rust-lang/rust?logo=github)](https://github.com/rust-lang/rust) [![](https://img.shields.io/static/v1?label=official-site&message=@)](https://www.rust-lang.org)
+- **`rust`** [![](https://img.shields.io/github/stars/rust-lang/rust?logo=github)](https://github.com/rust-lang/rust) [![](https://img.shields.io/static/v1?label=official&message=site)](https://www.rust-lang.org)

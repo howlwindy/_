@@ -1,0 +1,12 @@
+- extensions
+  - [EditorConfig.EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [stylelint.vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+  - [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [bradlc.vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+  - [IWANABETHATGUY.path-alias](https://marketplace.visualstudio.com/items?itemName=IWANABETHATGUY.path-alias)
+  - [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+  - [ZixuanChen.vitest-explorer](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer)
+  - [lokalise.i18n-ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+  - [Vue.vscode-typescript-vue-plugin](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
+  - [polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)

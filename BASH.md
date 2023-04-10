@@ -1,1 +1,1 @@
-- **`bash`** [![](https://img.shields.io/static/v1?label=official-site&message=@)](https://www.gnu.org/software/bash/manual/bash.html)
+- **`bash`** [![](https://img.shields.io/static/v1?label=official&message=site)](https://www.gnu.org/software/bash/manual/bash.html)

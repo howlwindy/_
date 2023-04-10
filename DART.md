@@ -1,1 +1,1 @@
-- **`dart`** [![](https://img.shields.io/github/stars/dart-lang/sdk?logo=github)](https://github.com/dart-lang/sdk) [![](https://img.shields.io/static/v1?label=official-site&message=@)](https://dart.dev)
+- **`dart`** [![](https://img.shields.io/github/stars/dart-lang/sdk?logo=github)](https://github.com/dart-lang/sdk) [![](https://img.shields.io/static/v1?label=official&message=site)](https://dart.dev)

@@ -1,1 +1,1 @@
-- **`go`** [![](https://img.shields.io/github/stars/golang/go?logo=github)](https://github.com/golang/go) [![](https://img.shields.io/static/v1?label=official-site&message=@)](https://go.dev)
+- **`go`** [![](https://img.shields.io/github/stars/golang/go?logo=github)](https://github.com/golang/go) [![](https://img.shields.io/static/v1?label=official&message=site)](https://go.dev)
