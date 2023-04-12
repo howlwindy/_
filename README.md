@@ -8,3 +8,5 @@
 - standard
   - [Semantic Versioning](https://semver.org)
   - [changelog](https://keepachangelog.com)
+- locales
+  - [en](EN.md)
