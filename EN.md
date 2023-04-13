@@ -7,6 +7,13 @@
 | be~am/is/are | was/were | been            | being              |
 | do/dose      | did      | done            | doing              |
 
+||past|present|future|future in past|
+|:-|:-|:-|:-|:-|
+|simple|did|do|will do|would do|
+|perfect|had done|have done|will have done|would have done|
+|continuous|was doing|is doing|will be doing|would be doing|
+|perfect continuous|had been doing|have been doing|will have been doing|would have been doing|
+
 > [Master ALL TENSES in 30 Minutes: Verb Tenses Chart with Useful Rules & Examples](https://www.youtube.com/watch?v=PQG_gYFePD4)
 
 <table>
@@ -387,11 +394,6 @@
       <table>
         <tr>
           <td>
-            <b>S + am/is/are</b>
-            <br />
-            <i>It is an apple.</i>
-          </td>
-          <td>
             <b>S + am/is/are + V(present participle)</b>
             <br />
             <i>I am eating apples.</i>
@@ -399,20 +401,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + am/is/are not</b>
-            <br />
-            <i>It is not an apple.</i>
-          <td>
             <b>S + am/is/are not + V(present participle)</b>
             <br />
             <i>I am not eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>am/is/are + S</b>
-            <br />
-            <i>Is it an apple?</i>
           <td>
             <b>am/is/are + S + V(present participle)</b>
             <br />
@@ -425,11 +419,6 @@
       <table>
         <tr>
           <td>
-            <b>S + will be</b>
-            <br />
-            <i>It will be an apple.</i>
-          </td>
-          <td>
             <b>S + will be + V(present participle)</b>
             <br />
             <i>I will be eating apples.</i>
@@ -437,22 +426,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + will not be</b>
-            <br />
-            <i>It will not be an apple.</i>
-          </td>
-          <td>
             <b>S + will not be + V(present participle)</b>
             <br />
             <i>I will not be eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>will + S + be</b>
-            <br />
-            <i>Will it be an apple?</i>
-          </td>
           <td>
             <b>will + S + be + V(present participle)</b>
             <br />
@@ -465,11 +444,6 @@
       <table>
         <tr>
           <td>
-            <b>S + would be</b>
-            <br />
-            <i>It would be an apple.</i>
-          </td>
-          <td>
             <b>S + would be + V(present participle)</b>
             <br />
             <i>I would be eating apples.</i>
@@ -477,22 +451,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + would not be</b>
-            <br />
-            <i>It would not be an apple.</i>
-          </td>
-          <td>
             <b>S + would not be + V(present participle)</b>
             <br />
             <i>I would not be eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>would + S + be</b>
-            <br />
-            <i>Would it be an apple?</i>
-          </td>
           <td>
             <b>would + S + be + V(present participle)</b>
             <br />
@@ -508,11 +472,6 @@
       <table>
         <tr>
           <td>
-            <b>S + had been</b>
-            <br />
-            <i>It had been an apple.</i>
-          </td>
-          <td>
             <b>S + had been + V(present participle)</b>
             <br />
             <i>I had been eating apples.</i>
@@ -520,22 +479,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + had not been</b>
-            <br />
-            <i>It had not been an apple.</i>
-          </td>
-          <td>
             <b>S + had not been + V(present participle)</b>
             <br />
             <i>I had not been eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>had + S + been</b>
-            <br />
-            <i>Had it been an apple?</i>
-          </td>
           <td>
             <b>had + s + been + V(present participle)</b>
             <br />
@@ -548,11 +497,6 @@
       <table>
         <tr>
           <td>
-            <b>S + have/has been</b>
-            <br />
-            <i>It has been an apple.</i>
-          </td>
-          <td>
             <b>S + have/has been + V(present participle)</b>
             <br />
             <i>I have been eating apples.</i>
@@ -560,22 +504,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + have/has not been</b>
-            <br />
-            <i>It has not been an apple.</i>
-          </td>
-          <td>
             <b>S + have/has not been + V(present participle)</b>
             <br />
             <i>I have not been eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>have/has + S + been</b>
-            <br />
-            <i>Has it been an apple?</i>
-          </td>
           <td>
             <b>have/has + S + been + V(present participle)</b>
             <br />
@@ -588,22 +522,12 @@
       <table>
         <tr>
           <td>
-            <b>S + will have been</b>
-            <br />
-            <i>It will have been an apple.</i>
-          </td>
-          <td>
             <b>S + will have been + V(present participle)</b>
             <br />
-            <i>I will have beee eating apples.</i>
+            <i>I will have been eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>S + will not have been</b>
-            <br />
-            <i>It will not have been an apple.</i>
-          </td>
           <td>
             <b>S + will not have been + V(present participle)</b>
             <br />
@@ -611,11 +535,6 @@
           </td>
         </tr>
         <tr>
-          <td>
-            <b>will + S + have been</b>
-            <br />
-            <i>Will it have been an apple?</i>
-          </td>
           <td>
             <b>will + S + have been + V(present participle)</b>
             <br />
@@ -628,11 +547,6 @@
       <table>
         <tr>
           <td>
-            <b>S + would have been</b>
-            <br />
-            <i>It would have been an apple.</i>
-          </td>
-          <td>
             <b>S + would have been + V(present participle)</b>
             <br />
             <i>I would have been eating apples.</i>
@@ -640,22 +554,12 @@
         </tr>
         <tr>
           <td>
-            <b>S + would not have been</b>
-            <br />
-            <i>It would not have been an apple.</i>
-          </td>
-          <td>
             <b>S + would not have been + V(present participle)</b>
             <br />
             <i>I would not been eating apples.</i>
           </td>
         </tr>
         <tr>
-          <td>
-            <b>would + S + have been</b>
-            <br />
-            <i>Would it have been an apple?</i>
-          </td>
           <td>
             <b>would + S + have been + V(present participle)</b>
             <br />
