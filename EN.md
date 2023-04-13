@@ -508,23 +508,38 @@
       <table>
         <tr>
           <td>
+            <b>S + had been</b>
+            <br />
+            <i>It had been an apple.</i>
+          </td>
+          <td>
             <b>S + had been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I had been eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + had not been</b>
+            <br />
+            <i>It had not been an apple.</i>
+          </td>
           <td>
             <b>S + had not been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I had not been eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>had + S + been</b>
+            <br />
+            <i>Had it been an apple?</i>
+          </td>
+          <td>
             <b>had + s + been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Had I been eating apples?</i>
           </td>
         </tr>
       </table>
@@ -533,23 +548,38 @@
       <table>
         <tr>
           <td>
+            <b>S + have/has been</b>
+            <br />
+            <i>It has been an apple.</i>
+          </td>
+          <td>
             <b>S + have/has been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I have been eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + have/has not been</b>
+            <br />
+            <i>It has not been an apple.</i>
+          </td>
           <td>
             <b>S + have/has not been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I have not been eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>have/has + S + been</b>
+            <br />
+            <i>Has it been an apple?</i>
+          </td>
+          <td>
             <b>have/has + S + been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Have I been eating apples?</i>
           </td>
         </tr>
       </table>
