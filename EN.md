@@ -387,23 +387,36 @@
       <table>
         <tr>
           <td>
+            <b>S + am/is/are</b>
+            <br />
+            <i>It is an apple.</i>
+          </td>
+          <td>
             <b>S + am/is/are + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I am eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + am/is/are not</b>
+            <br />
+            <i>It is not an apple.</i>
           <td>
             <b>S + am/is/are not + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I am not eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>am/is/are + S</b>
+            <br />
+            <i>Is it an apple?</i>
+          <td>
             <b>am/is/are + S + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Am I eating apples?</i>
           </td>
         </tr>
       </table>
