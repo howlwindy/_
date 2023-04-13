@@ -103,23 +103,38 @@
       <table>
         <tr>
           <td>
+            <b>S + will be</b>
+            <br />
+            <i>It will be an apple.</i>
+          </td>
+          <td>
             <b>S + will + V</b>
             <br />
-            <i></i>
+            <i>I will eat apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + will not be</b>
+            <br />
+            <i>It will not be an apple.</i>
+          </td>
           <td>
             <b>S + will not + V</b>
             <br />
-            <i></i>
+            <i>I will not eat apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>will + S + be</b>
+            <br />
+            <i>Will it be an apple?.</i>
+          </td>
+          <td>
             <b>will + S + V</b>
             <br />
-            <i></i>
+            <i>Will I eat apples?</i>
           </td>
         </tr>
       </table>
@@ -128,23 +143,38 @@
       <table>
         <tr>
           <td>
+            <b>S + would be</b>
+            <br />
+            <i>It would be an apple.</i>
+          </td>
+          <td>
             <b>S + would + V</b>
             <br />
-            <i></i>
+            <i>I would eat apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + would not be</b>
+            <br />
+            <i>It would not be an apple.</i>
+          </td>
           <td>
             <b>S + would not + V</b>
             <br />
-            <i></i>
+            <i>I would not eat apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>would + S + be</b>
+            <br />
+            <i>Would it be an apple?</i>
+          </td>
+          <td>
             <b>would + S + V</b>
             <br />
-            <i></i>
+            <i>Would I eat apples?</i>
           </td>
         </tr>
       </table>
