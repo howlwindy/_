@@ -425,23 +425,38 @@
       <table>
         <tr>
           <td>
+            <b>S + will be</b>
+            <br />
+            <i>It will be an apple.</i>
+          </td>
+          <td>
             <b>S + will be + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I will be eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + will not be</b>
+            <br />
+            <i>It will not be an apple.</i>
+          </td>
           <td>
             <b>S + will not be + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I will not be eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>will + S + be</b>
+            <br />
+            <i>Will it be an apple?</i>
+          </td>
+          <td>
             <b>will + S + be + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Will I be eating apples?</i>
           </td>
         </tr>
       </table>
