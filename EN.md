@@ -94,7 +94,7 @@
           <td>
             <b>do/does + S + V</b>
             <br />
-            <i>Do you eat apples?</i>
+            <i>Do I eat apples?</i>
           </td>
         </tr>
       </table>
@@ -185,23 +185,38 @@
       <table>
         <tr>
           <td>
+            <b>S + had been</b>
+            <br />
+            <i>It had been eaten an apple.</i>
+          </td>
+          <td>
             <b>S + had + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I had eaten apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + had not been</b>
+            <br />
+            <i>It had not been an apple.</i>
+          </td>
           <td>
             <b>S + had not + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I had not eaten apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>had + S + been</b>
+            <br />
+            <i>Had it been an apple?</i>
+          </td>
+          <td>
             <b>Had + S + V(past participle)</b>
             <br />
-            <i></i>
+            <i>Had I eaten apples?</i>
           </td>
         </tr>
       </table>
@@ -210,23 +225,38 @@
       <table>
         <tr>
           <td>
-            <b>S + hav/has + V(past participle)</b>
+            <b>S + have/has been</b>
             <br />
-            <i></i>
+            <i>It has been an apple.</i>
+          </td>
+          <td>
+            <b>S + have/has + V(past participle)</b>
+            <br />
+            <i>I have eaten apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + have/has not been</b>
+            <br />
+            <i>It has not been an apple.</i>
+          </td>
           <td>
             <b>S + have/has not + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I have not eaten apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>have/has + S + been</b>
+            <br />
+            <i>Has it been an apple?</i>
+          </td>
+          <td>
             <b>have/has + S + V(past participle)</b>
             <br />
-            <i></i>
+            <i>Have I eaten apples?</i>
           </td>
         </tr>
       </table>
