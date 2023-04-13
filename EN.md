@@ -28,45 +28,37 @@
     <td>
       <table>
         <tr>
-          <th></th>
-          <th>To Be</th>
-          <th>Verbs</th>
-        </tr>
-        <tr>
-          <td>Affirmative</td>
           <td>
-            <b></b>
+            <b>S + was/were</b>
             <br />
             <i></i>
           </td>
           <td>
-            <b></b>
+            <b>S + V(past)</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Negative</td>
           <td>
-            <b></b>
+            <b>S + was/were not</b>
             <br />
             <i></i>
           </td>
           <td>
-            <b></b>
+            <b>S + didn't + V</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Interrogative</td>
           <td>
-            <b></b>
+            <b>was/were + S</b>
             <br />
             <i></i>
           </td>
           <td>
-            <b></b>
+            <b>did + S + V</b>
             <br />
             <i></i>
           </td>
@@ -76,47 +68,39 @@
     <td>
       <table>
         <tr>
-          <th></th>
-          <th>To Be</th>
-          <th>Verbs</th>
-        </tr>
-        <tr>
-          <td>Affirmative</td>
           <td>
             <b>S + am/is/are</b>
             <br />
-            <i>He is a doctor.</i>
+            <i></i>
           </td>
           <td>
             <b>S + V</b>
             <br />
-            <i>I like tea.</i>
+            <i></i>
           </td>
         </tr>
         <tr>
-          <td>Negative</td>
           <td>
-            <b>S + am/is/are + not</b>
+            <b>S + am/is/are not</b>
             <br />
-            <i>He is not a doctor.</i>
+            <i></i>
           </td>
           <td>
             <b>S + don't/doesn't + V</b>
             <br />
-            <i>I don't like tea.</i>
+            <i></i>
           </td>
         </tr>
         <tr>
-          <td>Interrogative</td>
           <td>
             <b>am/is/are + S</b>
             <br />
-            <i>Is he a doctor?</i>
+            <i></i>
           </td>
           <td>
             <b>do/does + S + V</b>
             <br />
-            <i>Do you like tea?</i>
+            <i></i>
           </td>
         </tr>
       </table>
@@ -124,45 +108,22 @@
     <td>
       <table>
         <tr>
-          <th></th>
-          <th>To Be</th>
-          <th>Verbs</th>
-        </tr>
-        <tr>
-          <td>Affirmative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>S + will + V</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Negative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>S + will not + V</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Interrogative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>will + S + V</b>
             <br />
             <i></i>
           </td>
@@ -172,45 +133,22 @@
     <td>
       <table>
         <tr>
-          <th></th>
-          <th>To Be</th>
-          <th>Verbs</th>
-        </tr>
-        <tr>
-          <td>Affirmative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>S + would + V</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Negative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>S + would not + V</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
-          <td>Interrogative</td>
           <td>
-            <b></b>
-            <br />
-            <i></i>
-          </td>
-          <td>
-            <b></b>
+            <b>would + S + V</b>
             <br />
             <i></i>
           </td>
@@ -218,22 +156,313 @@
       </table>
     </td>
   <tr>
-    <th>prefect</th>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th>perfect</th>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + had + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + had not + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>Had + S + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + hav/has + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + have/has not + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>have/has + S + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + will have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + will not have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>will + S + have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + would have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + would not have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>would + S + have + V(past participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <th>continuous</th>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + was/were + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + was/were not + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>was/were + S + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + am/is/are + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + am/is/are not + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>am/is/are + S + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + will be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + will not be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>will + S + be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + would be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + would not be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>would + S + be + V(persent participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
-    <th>prefect continuous</th>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th>perfect continuous</th>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + had been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + had not been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>had + s + been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + have/has been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + have/has not been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>have/has + S + been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + will have been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + will not have been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>will have been + S + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <b>S + would have been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>S + would not have been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>would + S + have been + V(present participle)</b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
