@@ -588,23 +588,38 @@
       <table>
         <tr>
           <td>
+            <b>S + will be</b>
+            <br />
+            <i>It will be an apple.</i>
+          </td>
+          <td>
             <b>S + will have been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I will have beee eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + will not be</b>
+            <br />
+            <i>It will not be an apple.</i>
+          </td>
           <td>
             <b>S + will not have been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I will not have been eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
-            <b>will have been + S + V(present participle)</b>
+            <b>will + S + be</b>
             <br />
-            <i></i>
+            <i>Will it be an apple?</i>
+          </td>
+          <td>
+            <b>will + S + have been + V(present participle)</b>
+            <br />
+            <i>Will I have been eating apples?</i>
           </td>
         </tr>
       </table>
