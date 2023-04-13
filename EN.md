@@ -628,23 +628,38 @@
       <table>
         <tr>
           <td>
+            <b>S + would be</b>
+            <br />
+            <i>It would be an apple.</i>
+          </td>
+          <td>
             <b>S + would have been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I would have been eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + would not be</b>
+            <br />
+            <i>It would not be an apple.</i>
+          </td>
           <td>
             <b>S + would not have been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I would not been eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>would + S + be</b>
+            <br />
+            <i>Would it be an apple?</i>
+          </td>
+          <td>
             <b>would + S + have been + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Would I have been eating apples?</i>
           </td>
         </tr>
       </table>
