@@ -65,36 +65,36 @@
           <td>
             <b>S + am/is/are</b>
             <br />
-            <i></i>
+            <i>I am a developer.</i>
           </td>
           <td>
             <b>S + V</b>
             <br />
-            <i></i>
+            <i>I eat apples.</i>
           </td>
         </tr>
         <tr>
           <td>
             <b>S + am/is/are not</b>
             <br />
-            <i></i>
+            <i>I am not a developer.</i>
           </td>
           <td>
             <b>S + don't/doesn't + V</b>
             <br />
-            <i></i>
+            <i>I don't eat apples.</i>
           </td>
         </tr>
         <tr>
           <td>
             <b>am/is/are + S</b>
             <br />
-            <i></i>
+            <i>Are you a developer?</i>
           </td>
           <td>
             <b>do/does + S + V</b>
             <br />
-            <i></i>
+            <i>Do you eat apples?</i>
           </td>
         </tr>
       </table>
