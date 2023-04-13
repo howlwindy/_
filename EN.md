@@ -314,21 +314,21 @@
       <table>
         <tr>
           <td>
-            <b>S + will be + V(persent participle)</b>
+            <b>S + will be + V(present participle)</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
           <td>
-            <b>S + will not be + V(persent participle)</b>
+            <b>S + will not be + V(present participle)</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
           <td>
-            <b>will + S + be + V(persent participle)</b>
+            <b>will + S + be + V(present participle)</b>
             <br />
             <i></i>
           </td>
@@ -339,21 +339,21 @@
       <table>
         <tr>
           <td>
-            <b>S + would be + V(persent participle)</b>
+            <b>S + would be + V(present participle)</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
           <td>
-            <b>S + would not be + V(persent participle)</b>
+            <b>S + would not be + V(present participle)</b>
             <br />
             <i></i>
           </td>
         </tr>
         <tr>
           <td>
-            <b>would + S + be + V(persent participle)</b>
+            <b>would + S + be + V(present participle)</b>
             <br />
             <i></i>
           </td>
