@@ -588,9 +588,9 @@
       <table>
         <tr>
           <td>
-            <b>S + will be</b>
+            <b>S + will have been</b>
             <br />
-            <i>It will be an apple.</i>
+            <i>It will have been an apple.</i>
           </td>
           <td>
             <b>S + will have been + V(present participle)</b>
@@ -600,9 +600,9 @@
         </tr>
         <tr>
           <td>
-            <b>S + will not be</b>
+            <b>S + will not have been</b>
             <br />
-            <i>It will not be an apple.</i>
+            <i>It will not have been an apple.</i>
           </td>
           <td>
             <b>S + will not have been + V(present participle)</b>
@@ -612,9 +612,9 @@
         </tr>
         <tr>
           <td>
-            <b>will + S + be</b>
+            <b>will + S + have been</b>
             <br />
-            <i>Will it be an apple?</i>
+            <i>Will it have been an apple?</i>
           </td>
           <td>
             <b>will + S + have been + V(present participle)</b>
@@ -628,9 +628,9 @@
       <table>
         <tr>
           <td>
-            <b>S + would be</b>
+            <b>S + would have been</b>
             <br />
-            <i>It would be an apple.</i>
+            <i>It would have been an apple.</i>
           </td>
           <td>
             <b>S + would have been + V(present participle)</b>
@@ -640,9 +640,9 @@
         </tr>
         <tr>
           <td>
-            <b>S + would not be</b>
+            <b>S + would not have been</b>
             <br />
-            <i>It would not be an apple.</i>
+            <i>It would not have been an apple.</i>
           </td>
           <td>
             <b>S + would not have been + V(present participle)</b>
@@ -652,9 +652,9 @@
         </tr>
         <tr>
           <td>
-            <b>would + S + be</b>
+            <b>would + S + have been</b>
             <br />
-            <i>Would it be an apple?</i>
+            <i>Would it have been an apple?</i>
           </td>
           <td>
             <b>would + S + have been + V(present participle)</b>
