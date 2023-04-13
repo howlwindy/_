@@ -265,23 +265,37 @@
       <table>
         <tr>
           <td>
+            <b>S + will have been</b>
+            <br />
+            <i>It will have been an apple.</i>
+          <td>
             <b>S + will have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I will have eaten apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + will not have been</b>
+            <br />
+            <i>It will not have been an apple.</i>
+          </td>
           <td>
             <b>S + will not have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I will not have eaten apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>will + S + have been</b>
+            <br />
+            <i>Will it have been an apple?</i>
+          </td>
+          <td>
             <b>will + S + have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>will I have eaten apples?</i>
           </td>
         </tr>
       </table>
@@ -290,23 +304,38 @@
       <table>
         <tr>
           <td>
+            <b>S + would have been</b>
+            <br />
+            <i>It would have been an apple.</i>
+          </td>
+          <td>
             <b>S + would have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I would have eaten apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + would not have been</b>
+            <br />
+            <i>It would not have been an apple.</i>
+          </td>
           <td>
             <b>S + would not have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>I would not have eaten apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>would + S + have been</b>
+            <br />
+            <i>Would it have been an apple?</i>
+          </td>
+          <td>
             <b>would + S + have + V(past participle)</b>
             <br />
-            <i></i>
+            <i>Would i have eaten apples?</i>
           </td>
         </tr>
       </table>
