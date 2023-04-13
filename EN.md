@@ -187,7 +187,7 @@
           <td>
             <b>S + had been</b>
             <br />
-            <i>It had been eaten an apple.</i>
+            <i>It had been an apple.</i>
           </td>
           <td>
             <b>S + had + V(past participle)</b>
@@ -335,7 +335,7 @@
           <td>
             <b>would + S + have + V(past participle)</b>
             <br />
-            <i>Would i have eaten apples?</i>
+            <i>Would I have eaten apples?</i>
           </td>
         </tr>
       </table>
@@ -347,23 +347,38 @@
       <table>
         <tr>
           <td>
+            <b>S + was/were being</b>
+            <br />
+            <i>It was being an apple.</i>
+          </td>
+          <td>
             <b>S + was/were + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I was eating apples.</i>
           </td>
         </tr>
         <tr>
+          <td>
+            <b>S + was/were not being</b>
+            <br />
+            <i>It was not being an apple.</i>
+          </td>
           <td>
             <b>S + was/were not + V(present participle)</b>
             <br />
-            <i></i>
+            <i>I was not eating apples.</i>
           </td>
         </tr>
         <tr>
           <td>
+            <b>was/were + S + being</b>
+            <br />
+            <i>Was it being an apple?</i>
+          </td>
+          <td>
             <b>was/were + S + V(present participle)</b>
             <br />
-            <i></i>
+            <i>Was I eating apples?</i>
           </td>
         </tr>
       </table>
