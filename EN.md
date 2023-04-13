@@ -14,51 +14,73 @@
 | continuous         | were/was v4 | am/is/are v4     | will be v4        | would be v4        |
 | perfect continuous | had been v4 | have/has been v4 | will have been v4 | would have been v4 |
 
-<style>
-  table {
-    margin: 0;
-    border: 1 solid #000;
-    border-collapse: collapse;
-  }
-  th {
-    white-space: nowrap;
-  }
-  .keywords {
-    color: #8b5cf6;
-  }
-  .affirmative {
-    background-color: #ccfbf1;
-  }
-  .negative {
-    background-color: #ffe4e6;
-  }
-  .interrogative {
-    background-color: #fef3c7;
-  }
-  b {
-    color: #0ea5e9;
-  }
-</style>
+> [Master ALL TENSES in 30 Minutes: Verb Tenses Chart with Useful Rules & Examples](https://www.youtube.com/watch?v=PQG_gYFePD4)
 <table>
-  <caption>copied from <a href="https://www.youtube.com/watch?v=PQG_gYFePD4">Master ALL TENSES in 30 Minutes: Verb Tenses Chart with Useful Rules & Examples
-</a></caption>
   <tr>
     <th></th>
-    <th class="keywords">past</th>
-    <th class="keywords">present</th>
-    <th class="keywords">future</th>
-    <th class="keywords">future in past</th>
+    <th>past</th>
+    <th>present</th>
+    <th>future</th>
+    <th>future in past</th>
   </tr>
   <tr>
-    <th class="keywords">simple</th>
+    <th>simple</th>
     <td>
-      <table class="summary">
+      <table>
         <tr>
           <th></th>
           <th>To Be</th>
           <th>Verbs</th>
         </tr>
-        <tr class="affirmative">
+        <tr>
+          <td>Affirmative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Negative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Interrogative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th></th>
+          <th>To Be</th>
+          <th>Verbs</th>
+        </tr>
+        <tr>
           <td>Affirmative</td>
           <td>
             <b>S + am/is/are</b>
@@ -71,7 +93,7 @@
             <i>I like tea.</i>
           </td>
         </tr>
-        <tr class="negative">
+        <tr>
           <td>Negative</td>
           <td>
             <b>S + am/is/are + not</b>
@@ -84,7 +106,7 @@
             <i>I don't like tea.</i>
           </td>
         </tr>
-        <tr class="interrogative">
+        <tr>
           <td>Interrogative</td>
           <td>
             <b>am/is/are + S</b>
@@ -99,14 +121,119 @@
         </tr>
       </table>
     </td>
+    <td>
+      <table>
+        <tr>
+          <th></th>
+          <th>To Be</th>
+          <th>Verbs</th>
+        </tr>
+        <tr>
+          <td>Affirmative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Negative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Interrogative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th></th>
+          <th>To Be</th>
+          <th>Verbs</th>
+        </tr>
+        <tr>
+          <td>Affirmative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Negative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+        <tr>
+          <td>Interrogative</td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+          <td>
+            <b></b>
+            <br />
+            <i></i>
+          </td>
+        </tr>
+      </table>
+    </td>
   <tr>
-    <th class="keywords">prefect</th>
+    <th>prefect</th>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th class="keywords">continuous</th>
+    <th>continuous</th>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th class="keywords">prefect continuous</th>
+    <th>prefect continuous</th>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
