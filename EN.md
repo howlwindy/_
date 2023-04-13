@@ -25,36 +25,36 @@
           <td>
             <b>S + was/were</b>
             <br />
-            <i></i>
+            <i>It was an apple.</i>
           </td>
           <td>
             <b>S + V(past)</b>
             <br />
-            <i></i>
+            <i>I ate apples.</i>
           </td>
         </tr>
         <tr>
           <td>
             <b>S + was/were not</b>
             <br />
-            <i></i>
+            <i>It was not an apple.</i>
           </td>
           <td>
             <b>S + didn't + V</b>
             <br />
-            <i></i>
+            <i>I didn't eat apples.</i>
           </td>
         </tr>
         <tr>
           <td>
             <b>was/were + S</b>
             <br />
-            <i></i>
+            <i>Was it an apple?</i>
           </td>
           <td>
             <b>did + S + V</b>
             <br />
-            <i></i>
+            <i>Did I eat apples?</i>
           </td>
         </tr>
       </table>
@@ -65,7 +65,7 @@
           <td>
             <b>S + am/is/are</b>
             <br />
-            <i>I am a developer.</i>
+            <i>It is an apple.</i>
           </td>
           <td>
             <b>S + V</b>
@@ -77,7 +77,7 @@
           <td>
             <b>S + am/is/are not</b>
             <br />
-            <i>I am not a developer.</i>
+            <i>It is not an apple.</i>
           </td>
           <td>
             <b>S + don't/doesn't + V</b>
@@ -89,7 +89,7 @@
           <td>
             <b>am/is/are + S</b>
             <br />
-            <i>Are you a developer?</i>
+            <i>Is it an apple?</i>
           </td>
           <td>
             <b>do/does + S + V</b>
