@@ -1,11 +1,32 @@
 # verb
 
-## tenses
+## auxiliary
 
+### primary
 | present      | past     | past participle | present participle |
 | :----------- | :------- | :-------------- | :----------------- |
 | be~am/is/are | was/were | been            | being              |
 | do/dose      | did      | done            | doing              |
+| have/has     | had      | had             | having             |
+### modal
+| present      | past     | past participle | present participle |
+| :----------- | :------- | :-------------- | :----------------- |
+| will         | would    |                 |                    |
+| shall        | should   |                 |                    |
+| can          | could    |                 |                    |
+| may          | might    |                 |                    |
+| dare         | dared    | dared           | daring             |
+| must         |          |                 |                    |
+| need         | needed   | needed          | needing            |
+| ought to     |          |                 |                    |
+| used to      |          |                 |                    |
+| had better   |          |                 |                    |
+|              |          |                 |                    |
+| be able to   |          |                 |                    |
+| be going to  |          |                 |                    |
+| be about to  |          |                 |                    |
+|              |          |                 |                    |
+## tenses
 
 ||past|present|future|future in past|
 |:-|:-|:-|:-|:-|
