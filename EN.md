@@ -3,37 +3,36 @@
 ## auxiliary
 
 ### primary
+
 | present      | past     | past participle | present participle |
 | :----------- | :------- | :-------------- | :----------------- |
 | be~am/is/are | was/were | been            | being              |
 | do/dose      | did      | done            | doing              |
 | have/has     | had      | had             | having             |
+
 ### modal
-| present      | past     | past participle | present participle |
-| :----------- | :------- | :-------------- | :----------------- |
-| will         | would    |                 |                    |
-| shall        | should   |                 |                    |
-| can          | could    |                 |                    |
-| may          | might    |                 |                    |
-| dare         | dared    | dared           | daring             |
-| must         |          |                 |                    |
-| need         | needed   | needed          | needing            |
-| ought to     |          |                 |                    |
-| used to      |          |                 |                    |
-| had better   |          |                 |                    |
-|              |          |                 |                    |
-| be able to   |          |                 |                    |
-| be going to  |          |                 |                    |
-| be about to  |          |                 |                    |
-|              |          |                 |                    |
+
+| present    | past   | past participle | present participle |
+| :--------- | :----- | :-------------- | :----------------- |
+| will       | would  |                 |                    |
+| shall      | should |                 |                    |
+| can        | could  |                 |                    |
+| may        | might  |                 |                    |
+| dare       | dared  | dared           | daring             |
+| must       |        |                 |                    |
+| need       | needed | needed          | needing            |
+| ought to   |        |                 |                    |
+| used to    |        |                 |                    |
+| had better |        |                 |                    |
+
 ## tenses
 
-||past|present|future|future in past|
-|:-|:-|:-|:-|:-|
-|simple|did|do|will do|would do|
-|perfect|had done|have done|will have done|would have done|
-|continuous|was doing|is doing|will be doing|would be doing|
-|perfect continuous|had been doing|have been doing|will have been doing|would have been doing|
+|                    | past           | present         | future               | future in past        |
+| :----------------- | :------------- | :-------------- | :------------------- | :-------------------- |
+| simple             | did            | do              | will do              | would do              |
+| perfect            | had done       | have done       | will have done       | would have done       |
+| continuous         | was doing      | is doing        | will be doing        | would be doing        |
+| perfect continuous | had been doing | have been doing | will have been doing | would have been doing |
 
 > [Master ALL TENSES in 30 Minutes: Verb Tenses Chart with Useful Rules & Examples](https://www.youtube.com/watch?v=PQG_gYFePD4)
 
