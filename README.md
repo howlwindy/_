@@ -22,3 +22,9 @@
   - [:es:](ES.md)
 - music
   - [chords](CHORDS.md)
+- design
+  - claymorphism
+  - neumorphism
+  - glassmorphism
+  - skeuomorphism
+  - [material](https://m3.material.io)
